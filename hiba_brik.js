@@ -6,17 +6,12 @@
 // your code is here
 //
  //1 
- var lastName = 'brik';
- var fristName = 'hiba';
- var fullname = lastName + ' ' + firstName;
-
- //
  
  function partnerName(firstname, lastname) {
 return firstname + ' ' + lastname; 
 
  }
-//
+//4
 
 function age(a){
 	return a *( 365 * 24 * 3600);
